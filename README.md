@@ -1,0 +1,64 @@
+# IDEA_MissionControl_SCDFXIBM
+
+## 1. Problem Statement & Solution
+Leveraging IOT to help commanders on the ground improve their command and control and help them make better decisions.
+
+During large-scale operations where decisions need to be made almost instantaneously, the staging crew need to have a holistic understanding of the crew and the situation at hand in order to make the best decisions possible.
+
+Currently, the staging crew’s understanding of the situation at hand is often left to manual means or direct and frequent communication with firefighters engaged in the danger zone. Manual recording of firefighter movement in and out of the danger zone might lead to clerical errors. Also, direct communication diverts the firefighters’ attention from the task at hand and may compromise their personal safety and efficiency in getting the job done. Our team proposes an end-to-end solution called Mission Control that encompasses a slew of wearables for crew members and as well as accompanying software. Information will be collected from our wearables, FASTpods (earbuds) and FASTband (wristband). The information collected will be passed to FAST (Firefighting Analysis Staging Tool), a dashboard for the staging crew for details of the situation on hand. Furthermore, vital information can be personalized to each firefighter by collecting their biometrics during their training phases via the wristbands. This will give the staging crew a better understanding of each individual’s personal health and tolerance levels, so that they can make a decision on whether the firefighter should evacuate the danger zone.
+
+## 2. PITCH: (PITCH VIDEO LINK HERE)
+
+## 3. Architecture
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/archi.png?raw=true)
+
+## 4. Detailed Solution
+https://docs.google.com/document/d/1vaHihtZk1bkRmhXWnUEA3x1svw3zeWIGHPECcQrVoWE/edit?usp=sharing
+
+## 5. Proposed timeline
+We propose a 3 step implementation:
+
+Testing on new recruits and trainees: this is in order to test if the systems function and if they can easily be adopted by new members of the force
+Testing with operational personnel: after it is established that the system works without bugs and failures, it can be tested on more experienced operational personnel who can spot potential pitfalls and issues that trainees cannot due to their experience.
+Finally, a phased go-live. The SCDF can adopt the technology slowly across units based on budgeting and which units would benefit the most from an advanced system like Mission Control based on the volume and complexity of operations that are commonly carried out by the respective units.
+
+## 6.Getting Started (Step by step instructions)
+
+Before you begin:
+- Step 1: Head to the Watson IoT Platform service page on IBM Cloud and sign up / login to your IBM Cloud account.
+
+- Step 2: Click the “Create” button on the bottom right corner of the page
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/Create.png?raw=true)
+
+- Step 3: Click “Launch” to enter the Watson IoT Platform
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/Launch.png?raw=true)
+
+- Step 4: From the main navigation pane, select Settings
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/Settings.png?raw=true)
+
+- Step 5: In the Data and Devices section, activate the device simulator. Simulating Devices as well as the Last Event Cache (LEC) and set it to “1 day”
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/Device-Sim.png?raw=true)
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/Last-Event-Cache.png?raw=true)
+
+- Step 6: From the Watson IoT Platform dashboard, click the "0 Simulations running" message.
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/0Sim.png?raw=true)
+
+- Step 7: Click the “Import/Export simulation” button and import from this file then select “Replace current configuration”.
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/Import-Export.png?raw=true)
+
+- Step 8: After importing the simulation, in the same pop-up menu, flip the two switches on the right hand side to start the simulation.
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/Start.png?raw=true)
+
+KISHEN'S PART
+
+## 7. Live Demo
+(LINK HERE)
+
+## 8. Technologies Used:
+- Hardware
+ - Wristband
+ - Earbuds
+ - Bluetooth Beacon
+ - On-helmet camera
+- IBM Watson IOT Platform
+- ReactJS (Dashboard)
