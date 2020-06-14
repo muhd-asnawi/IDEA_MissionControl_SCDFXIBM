@@ -1,4 +1,4 @@
-# IDEA_MissionControl_SCDFXIBM
+# IDEA: MissionControl_SCDFXIBM
 
 ### Team Information
 Team Name: Idea
@@ -6,9 +6,10 @@ Team Name: Idea
 Members:
 - Jones Lim
 - Kishen Ashok Kumar
-- Rishabh Paliwal
 - Muhammad Asnawi bin Wahid
-- Rahul Datta 
+- Rahul Datta
+- Rishabh Paliwal
+ 
 
 ## 1. Problem Statement & Solution
 Leveraging IOT to help commanders on the ground improve their command and control and help them make better decisions.
