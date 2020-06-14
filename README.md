@@ -10,7 +10,7 @@ Currently, the staging crew’s understanding of the situation at hand is often 
 ## 2. PITCH: (PITCH VIDEO LINK HERE)
 
 ## 3. Architecture
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/archi.png?raw=true)
+![alt text](https://github.com/KishenKumarrrrr/IDEA_MissionControl_SCDFXIBM/blob/readme/archi.png?raw=true)
 
 ## 4. Detailed Solution
 https://docs.google.com/document/d/1vaHihtZk1bkRmhXWnUEA3x1svw3zeWIGHPECcQrVoWE/edit?usp=sharing
@@ -28,26 +28,27 @@ Before you begin:
 - Step 1: Head to the Watson IoT Platform service page on IBM Cloud and sign up / login to your IBM Cloud account.
 
 - Step 2: Click the “Create” button on the bottom right corner of the page
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/Create.png?raw=true)
+![alt text](https://github.com/KishenKumarrrrr/IDEA_MissionControl_SCDFXIBM/blob/readme/Create.png?raw=true)
 
 - Step 3: Click “Launch” to enter the Watson IoT Platform
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/Launch.png?raw=true)
+![alt text](https://github.com/KishenKumarrrrr/IDEA_MissionControl_SCDFXIBM/blob/readme/Launch.png?raw=true)
+
 
 - Step 4: From the main navigation pane, select Settings
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/Settings.png?raw=true)
+![alt text](https://github.com/KishenKumarrrrr/IDEA_MissionControl_SCDFXIBM/blob/readme/Settings.png?raw=true)
 
 - Step 5: In the Data and Devices section, activate the device simulator. Simulating Devices as well as the Last Event Cache (LEC) and set it to “1 day”
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/Device-Sim.png?raw=true)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/Last-Event-Cache.png?raw=true)
+![alt text](https://github.com/KishenKumarrrrr/IDEA_MissionControl_SCDFXIBM/blob/readme/Device-Sim.png?raw=true)
+![alt text](https://github.com/KishenKumarrrrr/IDEA_MissionControl_SCDFXIBM/blob/readme/Last-Event-Cach.png?raw=true)
 
 - Step 6: From the Watson IoT Platform dashboard, click the "0 Simulations running" message.
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/0Sim.png?raw=true)
+![alt text](https://github.com/KishenKumarrrrr/IDEA_MissionControl_SCDFXIBM/blob/readme/0Sim.png?raw=true)
 
 - Step 7: Click the “Import/Export simulation” button and import from this file then select “Replace current configuration”.
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/Import-Export.png?raw=true)
+![alt text](https://github.com/KishenKumarrrrr/IDEA_MissionControl_SCDFXIBM/blob/readme/Import-Export.png?raw=true)
 
 - Step 8: After importing the simulation, in the same pop-up menu, flip the two switches on the right hand side to start the simulation.
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/Start.png?raw=true)
+![alt text](https://github.com/KishenKumarrrrr/IDEA_MissionControl_SCDFXIBM/blob/readme/Start.png?raw=true)
 
 KISHEN'S PART
 
