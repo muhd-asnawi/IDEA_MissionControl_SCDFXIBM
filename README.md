@@ -18,9 +18,9 @@ https://docs.google.com/document/d/1vaHihtZk1bkRmhXWnUEA3x1svw3zeWIGHPECcQrVoWE/
 ## 5. Proposed timeline
 We propose a 3 step implementation:
 
-Testing on new recruits and trainees: this is in order to test if the systems function and if they can easily be adopted by new members of the force
-Testing with operational personnel: after it is established that the system works without bugs and failures, it can be tested on more experienced operational personnel who can spot potential pitfalls and issues that trainees cannot due to their experience.
-Finally, a phased go-live. The SCDF can adopt the technology slowly across units based on budgeting and which units would benefit the most from an advanced system like Mission Control based on the volume and complexity of operations that are commonly carried out by the respective units.
+- 1. Testing on new recruits and trainees: this is in order to test if the systems function and if they can easily be adopted by new members of the force
+- 2. Testing with operational personnel: after it is established that the system works without bugs and failures, it can be tested on more experienced operational personnel who can spot potential pitfalls and issues that trainees cannot due to their experience.
+- 3. Finally, a phased go-live. The SCDF can adopt the technology slowly across units based on budgeting and which units would benefit the most from an advanced system like Mission Control based on the volume and complexity of operations that are commonly carried out by the respective units.
 
 ## 6.Getting Started (Step by step instructions)
 
