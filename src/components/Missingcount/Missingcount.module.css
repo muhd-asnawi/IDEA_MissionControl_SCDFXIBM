@@ -1,0 +1,30 @@
+.counter {
+    font-size: 30px;
+    margin-bottom: 0;
+    font-family: 'Lato';
+}
+
+.parent {
+    text-align: center;
+    height: 50%;
+}
+
+.header {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: 'Lato';
+    font-size: 25px;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    height: 100%;
+    margin-top: 20px;
+}
+
+.buttontext {
+    margin: 0;
+    font-size: 20px
+}
