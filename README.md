@@ -1,6 +1,6 @@
 # IDEA_MissionControl_SCDFXIBM
 
-### Team
+### Team Information
 Team Name: Idea
 
 Members:
