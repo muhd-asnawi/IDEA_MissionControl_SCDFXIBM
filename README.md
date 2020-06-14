@@ -57,7 +57,15 @@ Before you begin:
 
 ![alt text](https://github.com/KishenKumarrrrr/IDEA_MissionControl_SCDFXIBM/blob/readme/Start.png?raw=true)
 
-KISHEN'S PART
+### Setting up ReactJS and NodeJS
+- Step 1: Install NodeJS following this step-by-step guide.
+- Step 2: Install and run ReactJS using this guide.
+- Step 3: Download the project files from this github repo and paste them into the “my-app” folder created during the previous step
+- Step 4: Open up your terminal in the “my-app” project folder then run the following command to install the project dependencies
+```
+				npm install @material-ui/core @material-ui/icons axios chart.js chartjs-plugin-datalabels install react-chartjs-2 react-player react-router react-virtualized react-window redux video-react
+```
+- Step 5: Type npm start in the terminal to run the React app which should automatically open your browser to the web address http://localhost:3000 where you will be able to see the Dashboard!
 
 ## 7. Live Demo
 https://youtu.be/5pQfqDc3Ufk
