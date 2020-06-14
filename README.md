@@ -34,12 +34,13 @@ Before you begin:
 ![alt text](https://github.com/KishenKumarrrrr/IDEA_MissionControl_SCDFXIBM/blob/readme/Launch.png?raw=true)
 
 
-- Step 4: From the main navigation pane, select Settings
+- Step 4: From the main navigation pane, select Settings.
+
 ![alt text](https://github.com/KishenKumarrrrr/IDEA_MissionControl_SCDFXIBM/blob/readme/Settings.png?raw=true)
 
 - Step 5: In the Data and Devices section, activate the device simulator. Simulating Devices as well as the Last Event Cache (LEC) and set it to “1 day”
 ![alt text](https://github.com/KishenKumarrrrr/IDEA_MissionControl_SCDFXIBM/blob/readme/Device-Sim.png?raw=true)
-![alt text](https://github.com/KishenKumarrrrr/IDEA_MissionControl_SCDFXIBM/blob/readme/Last-Event-Cach.png?raw=true)
+![alt text](https://github.com/KishenKumarrrrr/IDEA_MissionControl_SCDFXIBM/blob/readme/Last-Event-Cache.png?raw=true)
 
 - Step 6: From the Watson IoT Platform dashboard, click the "0 Simulations running" message.
 ![alt text](https://github.com/KishenKumarrrrr/IDEA_MissionControl_SCDFXIBM/blob/readme/0Sim.png?raw=true)
