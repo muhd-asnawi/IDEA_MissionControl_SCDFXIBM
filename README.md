@@ -65,9 +65,9 @@ KISHEN'S PART
 ## 8. Technologies Used:
 
 - Hardware
- - Wristband
- - Earbuds
- - Bluetooth Beacon
- - On-helmet camera
+    * Wristband
+    * Earbuds
+    * Bluetooth Beacon
+    * On-helmet camera
 - IBM Watson IOT Platform
 - ReactJS (Dashboard)
