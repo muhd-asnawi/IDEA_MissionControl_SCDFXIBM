@@ -7,7 +7,8 @@ During large-scale operations where decisions need to be made almost instantaneo
 
 Currently, the staging crew’s understanding of the situation at hand is often left to manual means or direct and frequent communication with firefighters engaged in the danger zone. Manual recording of firefighter movement in and out of the danger zone might lead to clerical errors. Also, direct communication diverts the firefighters’ attention from the task at hand and may compromise their personal safety and efficiency in getting the job done. Our team proposes an end-to-end solution called Mission Control that encompasses a slew of wearables for crew members and as well as accompanying software. Information will be collected from our wearables, FASTpods (earbuds) and FASTband (wristband). The information collected will be passed to FAST (Firefighting Analysis Staging Tool), a dashboard for the staging crew for details of the situation on hand. Furthermore, vital information can be personalized to each firefighter by collecting their biometrics during their training phases via the wristbands. This will give the staging crew a better understanding of each individual’s personal health and tolerance levels, so that they can make a decision on whether the firefighter should evacuate the danger zone.
 
-## 2. PITCH: (PITCH VIDEO LINK HERE)
+## 2. PITCH:
+
 
 ## 3. Architecture
 ![alt text](https://github.com/KishenKumarrrrr/IDEA_MissionControl_SCDFXIBM/blob/readme/archi.png?raw=true)
@@ -63,7 +64,7 @@ Before you begin:
 - Step 3: Download the project files from this github repo and paste them into the “my-app” folder created during the previous step
 - Step 4: Open up your terminal in the “my-app” project folder then run the following command to install the project dependencies
 ```
-				npm install @material-ui/core @material-ui/icons axios chart.js chartjs-plugin-datalabels install react-chartjs-2 react-player react-router react-virtualized react-window redux video-react
+npm install @material-ui/core @material-ui/icons axios chart.js chartjs-plugin-datalabels install react-chartjs-2 react-player react-router react-virtualized react-window redux video-react
 ```
 - Step 5: Type npm start in the terminal to run the React app which should automatically open your browser to the web address http://localhost:3000 where you will be able to see the Dashboard!
 
