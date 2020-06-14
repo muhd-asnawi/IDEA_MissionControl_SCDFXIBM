@@ -63,6 +63,7 @@ KISHEN'S PART
 (LINK HERE)
 
 ## 8. Technologies Used:
+
 - Hardware
  - Wristband
  - Earbuds
